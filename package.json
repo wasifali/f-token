@@ -1,0 +1,23 @@
+{
+  "name": "factiiv",
+  "version": "1.0.0",
+  "description": "**Never** commit to `main`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techilab-pk/factiiv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techilab-pk/factiiv/issues"
+  },
+  "homepage": "https://github.com/techilab-pk/factiiv#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.3.1",
+    "truffle": "^5.4.8"
+  }
+}
